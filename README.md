@@ -31,3 +31,4 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+1、master分支合并
