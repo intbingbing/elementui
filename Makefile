@@ -1,4 +1,5 @@
 22、new合并分支
+999
 .PHONY: dist build
 install:
 	@npm install
